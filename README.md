@@ -11,14 +11,13 @@ Many people wonder what Proof of Stake is, and how it works. In this document yo
 * https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
 * https://en.bitcoin.it/wiki/Proof_of_Stake
 * https://bitcoinmagazine.com/articles/what-proof-of-stake-is-and-why-it-matters-1377531463/
-* http://earlz.net/view/2017/07/27/1904/the-missing-explanation-of-proof-of-stake-version
-
 
 **Original whitepapers:**
 
 * Peercoin PoS: https://peercoin.net/assets/paper/peercoin-paper.pdf
 * Blackcoin PoS v2: http://blackcoin.co/blackcoin-pos-protocol-v2-whitepaper.pdf
-* Blackcoin PoS v3: https://bravenewcoin.com/assets/Whitepapers/Blackcoin-POS-3.pdf
+* Blackcoin PoS v3: https://blackcoin.org/Blackcoin-POS-3.pdf
+* Blackcoin PoS v3.1: https://blackcoin.org/blackcoin-pos-protocol-v3.1-whitepaper.pdf
 
 
 # FAQ
