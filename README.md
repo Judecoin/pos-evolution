@@ -42,10 +42,6 @@ No. If your wallet is not encrypted, there is no need to unlock it.
 
 Because it is just an estimation of the _average_ time you need to wait. It depends on the network weight and your local weight. If some of your coins become immature or when the network weight changes, then this number will change accordingly. If nothing changes, then this number will stay the same, since it is the _expected_ time you need to wait, on average.
 
-### What does "immature" / "not mature" mean?
-
-When some of your coins have staked or just arrived at your wallet, they are "disqualified" for a certain time. This is necessary for technical reasons. We call these coins "immature". After a certain time (that depends on your coin), they will become mature. Only coins that are mature can participate in staking, and are added to your local weight.
-
 ### Why is my local weight less than the number of coins I have?
 
 See above.
