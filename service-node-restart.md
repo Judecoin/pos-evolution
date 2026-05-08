@@ -98,7 +98,11 @@ Check whether there is still any `judecoind` process running:
 
 If you only see the `grep judecoind` line, it usually means the old process has stopped.
 
+This only stops the running daemon process. It does not delete wallet files, node files, staking records, or the `.bitjudecoin` directory.
+
 ### 8. Restart the Service Node
+
+Before restarting or migrating a Service Node, make sure the Service Node private key has been backed up.
 
 Run:
 
@@ -116,13 +120,21 @@ If you can see the block height, synchronization status, and network connection 
 
 If the node is still syncing, please wait until synchronization is completed.
 
+A restarted node may still need some time to fully synchronize and appear correctly on the block explorer.
+
 ## 【Common Notes】
 
 1. If the server has already downloaded and extracted the current CLI version, it is not always necessary to download it again. You can directly enter the existing Judecoin CLI directory and restart the node.
 
 2. If `./judecoind status` does not show status immediately, the node may have just started and may not be fully initialized yet. Wait 1-2 minutes and check again.
 
-3. If the node still does not show status after a long time, you can run the startup command again:
+3. If the node still does not show status after a long time, check whether `judecoind` is already running before starting it again:
+
+`ps aux | grep judecoind`
+
+If `judecoind` is already running, do not repeatedly start multiple instances. Wait for synchronization or check the status again later.
+
+If needed, run the startup command again:
 
 `./judecoind --service-node --service-node-public-ip $(curl -s ifconfig.me) --no-zmq --detach`
 
@@ -132,7 +144,7 @@ Then check again:
 
 4. Restarting the node will not change your wallet staking transaction and will not automatically unlock your stake, but make sure the Service Node private key has been backed up.
 
-5. Do not delete the `.bitjudecoin` directory, do not delete the `key_ed25519` file, and do not disclose your server private key, wallet private key, seed phrase, or AWS `.pem` file.
+5. Do not delete the `.bitjudecoin` directory, do not delete the `key_ed25519` file, and do not disclose your server access key, wallet private key, seed phrase, `.pem` file, or other server access credentials.
 
 6. If the official team releases a new CLI version, please check the official upgrade instructions first before updating the version and restarting the node.
 
@@ -143,10 +155,10 @@ Please pay attention to the following:
 - Do not disclose server IP addresses, login information, or backend screenshots;
 - Do not disclose the Service Node private key;
 - Do not disclose wallet seed phrases or private keys;
-- Do not disclose AWS `.pem` files;
+- Do not disclose `.pem` files or other server access keys;
 - Do not click unknown emails or unknown links;
 - When downloading the CLI, prioritize links provided by the official website or official GitHub;
-- It is recommended to store the Service Node private key, `.pem` file, and node records in secure encrypted storage;
+- It is recommended to store the Service Node private key, server access files, and node records in secure encrypted storage;
 - It is recommended to keep at least two offline backups in separate safe locations.
 
 ## 【Conclusion】
