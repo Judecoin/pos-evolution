@@ -1,3 +1,22 @@
+# JUDE PoS Evolution
+
+This repository supports the evolution of JUDE Proof of Stake by providing practical documentation for PoS participation, service node operation, recovery, and security practices.
+
+As JUDE continues to develop its PoS service node network, clear operational documentation can help participants understand the staking workflow, maintain stable node operation, protect service node keys, and respond properly to common operational issues.
+
+The following documentation areas may be added or expanded:
+
+* Service Node Staking and Operation
+* Service Node Restart Process
+* Service Node Recovery Using SN Private Key
+* Windows CLI Wallet Recovery
+* Service Node Security and Backup Checklist
+* Service Node Status and Common FAQ
+
+These materials are intended to provide clearer operational guidance for JUDE PoS participants, service node operators, and ecosystem contributors.
+
+# Proof of Stake Overview
+
 Many people wonder what Proof of Stake is, and how it works. In this document you will find a few overview links, and a FAQ further down. If there is anything missing or still unclear, feel free to ask me about it!
 
 **Overview:** 
@@ -18,7 +37,6 @@ Many people wonder what Proof of Stake is, and how it works. In this document yo
 * Blackcoin PoS v2: http://blackcoin.co/blackcoin-pos-protocol-v2-whitepaper.pdf
 * Blackcoin PoS v3: https://blackcoin.org/Blackcoin-POS-3.pdf
 * Blackcoin PoS v3.1: https://blackcoin.org/blackcoin-pos-protocol-v3.1-whitepaper.pdf
-
 
 # FAQ
 
