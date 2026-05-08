@@ -249,10 +249,10 @@ Please pay attention to the following:
 - Do not disclose the Service Node private key;
 - Do not disclose wallet seed phrases;
 - Do not disclose wallet private keys;
-- Do not disclose AWS `.pem` files;
+- Do not disclose `.pem` files or other server access keys;
 - Do not expose server IP addresses, login information, or backend screenshots;
 - Do not send the SN private key through chat apps, emails, or public groups;
-- Store SN private keys and AWS `.pem` files in secure encrypted storage;
+- Store SN private keys and server access files in secure encrypted storage;
 - Keep at least two offline backups in separate safe locations.
 
 ## 【Conclusion】
