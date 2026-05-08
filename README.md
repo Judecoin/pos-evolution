@@ -9,8 +9,6 @@ The following documentation areas may be added or expanded:
 * [Service Node Staking and Operation](service-node-staking.md)
 * [Service Node Restart Process](service-node-restart.md)
 * [Service Node Recovery Using SN Private Key](service-node-recovery-with-sn-key.md)
-* [Windows CLI Wallet Recovery](windows-cli-wallet-recovery.md)
-* [Linux-Ubuntu CLI Wallet Recovery](linux-cli-wallet-recovery.md)
 * [Service Node Security and Backup Checklist](service-node-security-backup.md)
 * [Service Node Status and Common FAQ](service-node-status-faq.md)
 
