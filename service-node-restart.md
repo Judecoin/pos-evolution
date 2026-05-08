@@ -1,4 +1,4 @@
-# Judecoin Service Node Restart Guide
+# Judecoin Service Node Restart Guide 
 
 This guide describes the process for restarting a Judecoin Service Node.
 
