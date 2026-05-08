@@ -6,12 +6,13 @@ As JUDE continues to develop its PoS service node network, clear operational doc
 
 The following documentation areas may be added or expanded:
 
-* Service Node Staking and Operation
-* Service Node Restart Process
-* Service Node Recovery Using SN Private Key
-* Windows CLI Wallet Recovery
-* Service Node Security and Backup Checklist
-* Service Node Status and Common FAQ
+* [Service Node Staking and Operation](service-node-staking.md)
+* [Service Node Restart Process](service-node-restart.md)
+* [Service Node Recovery Using SN Private Key](service-node-recovery-with-sn-key.md)
+* [Windows CLI Wallet Recovery](windows-cli-wallet-recovery.md)
+* [Linux-Ubuntu CLI Wallet Recovery](linux-cli-wallet-recovery.md)
+* [Service Node Security and Backup Checklist](service-node-security-backup.md)
+* [Service Node Status and Common FAQ](service-node-status-faq.md)
 
 These materials are intended to provide clearer operational guidance for JUDE PoS participants, service node operators, and ecosystem contributors.
 
