@@ -8,7 +8,7 @@ As Judecoin continues to develop its Proof-of-Stake service node network, clear 
 
 ## Current CLI Version
 
-Current CLI version: **v3.1.2**
+Current CLI version: **v3.2.0**
 
 Command examples in this repository should be checked against the latest official Judecoin CLI release and CLI help output.
 

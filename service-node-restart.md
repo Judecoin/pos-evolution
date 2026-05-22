@@ -8,7 +8,7 @@ It is intended to help Judecoin Service Node operators restart nodes more clearl
 
 ## 【Important Notice】
 
-The CLI version used in this example is v3.1.2. This is only for the current version reference.
+The CLI version used in this example is v3.2.0. This is only for the current version reference.
 
 If Judecoin releases a newer CLI version in the future, please always follow the latest version provided by the official website or official GitHub, and update the download link, extracted folder name, and version number accordingly.
 
@@ -16,11 +16,11 @@ For example:
 
 Current example download file:
 
-`judecoin-linux-x64-v3.1.2.tar.bz2`
+`judecoin-linux-x64-v3.2.0.tar.bz2`
 
 Current example extracted folder:
 
-`judecoin-x86_64-linux-gnu-v3.1.2`
+`judecoin-x86_64-linux-gnu-v3.2.0`
 
 If the official version is updated to v3.1.3 or higher, please replace the version number with the latest one accordingly.
 
@@ -46,17 +46,17 @@ Install the required tools:
 
 Run:
 
-`wget https://www.judecoin.io/storage/files/cli/judecoin-linux-x64-v3.1.2.tar.bz2`
+`wget https://www.judecoin.io/storage/files/cli/judecoin-linux-x64-v3.2.0.tar.bz2`
 
 Note:
 
-If a newer CLI version has been released officially, replace `v3.1.2` in the link above with the latest version number.
+If a newer CLI version has been released officially, replace `v3.2.0` in the link above with the latest version number.
 
 ### 4. Extract the CLI File
 
 Run:
 
-`tar -jxvf judecoin-linux-x64-v3.1.2.tar.bz2`
+`tar -jxvf judecoin-linux-x64-v3.2.0.tar.bz2`
 
 Note:
 
@@ -66,7 +66,7 @@ If you downloaded a newer version file, replace the file name accordingly.
 
 Run:
 
-`cd judecoin-x86_64-linux-gnu-v3.1.2`
+`cd judecoin-x86_64-linux-gnu-v3.2.0`
 
 Note:
 
@@ -78,7 +78,7 @@ Run:
 
 `./judecoind --version`
 
-If it shows `v3.1.2`, the current CLI version is correct.
+If it shows `v3.2.0`, the current CLI version is correct.
 
 If the official version has been updated, please use the latest displayed version as the reference.
 

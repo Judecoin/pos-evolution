@@ -37,13 +37,13 @@ Enter the server terminal and run:
 cd ~
 sudo apt update
 sudo apt install wget tar bzip2 curl -y
-wget https://www.judecoin.io/storage/files/cli/judecoin-linux-x64-v3.1.2.tar.bz2
-tar -jxvf judecoin-linux-x64-v3.1.2.tar.bz2
-cd judecoin-x86_64-linux-gnu-v3.1.2
+wget https://www.judecoin.io/storage/files/cli/judecoin-linux-x64-v3.2.0.tar.bz2
+tar -jxvf judecoin-linux-x64-v3.2.0.tar.bz2
+cd judecoin-x86_64-linux-gnu-v3.2.0
 ./judecoind --version
 ```
 
-If the version shows `v3.1.2`, the CLI installation is successful.
+If the version shows `v3.2.0`, the CLI installation is successful.
 
 If Judecoin releases a newer CLI version, always use the latest official version and update the download link, extracted folder name, and version number accordingly.
 

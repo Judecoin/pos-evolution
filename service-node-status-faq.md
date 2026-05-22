@@ -209,7 +209,7 @@ CLI version numbers may change over time.
 
 For example, a guide may use:
 
-`v3.1.2`
+`v3.2.0`
 
 But if the official version becomes:
 
