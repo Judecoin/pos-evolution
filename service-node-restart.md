@@ -22,7 +22,7 @@ Current example extracted folder:
 
 `judecoin-x86_64-linux-gnu-v3.2.0`
 
-If the official version is updated to v3.1.3 or higher, please replace the version number with the latest one accordingly.
+If a newer official version is released, please replace the version number, download file name, and extracted folder name with the latest official release information.
 
 ## 【Judecoin Service Node Restart Process】
 
