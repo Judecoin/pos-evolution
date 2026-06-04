@@ -46,7 +46,7 @@ Install the required tools:
 
 Run:
 
-`wget https://www.judecoin.io/storage/files/cli/judecoin-linux-x64-v3.2.0.tar.bz2`
+`wget https://github.com/Judecoin/judecoin/releases/download/v3.2.0/judecoin-linux-x64-v3.2.0.tar.bz2`
 
 Note:
 
