@@ -37,7 +37,7 @@ Enter the server terminal and run:
 cd ~
 sudo apt update
 sudo apt install wget tar bzip2 curl -y
-wget https://www.judecoin.io/storage/files/cli/judecoin-linux-x64-v3.2.0.tar.bz2
+wget https://github.com/Judecoin/judecoin/releases/download/v3.2.0/judecoin-linux-x64-v3.2.0.tar.bz2
 tar -jxvf judecoin-linux-x64-v3.2.0.tar.bz2
 cd judecoin-x86_64-linux-gnu-v3.2.0
 ./judecoind --version
