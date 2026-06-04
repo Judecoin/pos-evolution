@@ -46,7 +46,7 @@ Log in to the server terminal and run:
 
 Run:
 
-`wget https://www.judecoin.io/storage/files/cli/judecoin-linux-x64-v3.2.0.tar.bz2`
+`wget https://github.com/Judecoin/judecoin/releases/download/v3.2.0/judecoin-linux-x64-v3.2.0.tar.bz2`
 
 Note:
 
@@ -178,7 +178,7 @@ The following is the full command sequence for reference:
 
 `sudo apt install wget tar bzip2 curl -y`
 
-`wget https://www.judecoin.io/storage/files/cli/judecoin-linux-x64-v3.2.0.tar.bz2`
+`wget https://github.com/Judecoin/judecoin/releases/download/v3.2.0/judecoin-linux-x64-v3.2.0.tar.bz2`
 
 `tar -jxvf judecoin-linux-x64-v3.2.0.tar.bz2`
 
