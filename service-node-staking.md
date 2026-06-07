@@ -45,7 +45,7 @@ cd judecoin-x86_64-linux-gnu-v3.2.0
 
 If the version shows `v3.2.0`, the CLI installation is successful.
 
-If Judecoin releases a newer CLI version, always use the latest official version and update the download link, extracted folder name, and version number accordingly.
+If Judecoin releases a newer CLI version, always use the latest community version and update the download link, extracted folder name, and version number accordingly.
 
 ## 【3. Start the Service Node】
 
@@ -178,7 +178,7 @@ Service Node operators should follow strict security rules:
 
 4. Operators should regularly check node status, uptime proof, and block explorer status.
 
-5. If the CLI version is updated, operators should follow the latest official release instructions.
+5. If the CLI version is updated, operators should follow the latest community release instructions.
 
 ## 【Conclusion】
 
