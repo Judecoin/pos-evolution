@@ -193,7 +193,7 @@ If the server has been restarted, make sure the key file still exists:
 
 Before upgrading CLI, it is recommended to:
 
-- Check the official release information
+- Check the community release information
 - Confirm the latest version number
 - Back up the Service Node private key
 - Back up important node records
@@ -211,7 +211,7 @@ For example, a guide may use:
 
 `v3.2.0`
 
-But if the official version becomes:
+But if the community version becomes:
 
 `v3.1.3`
 
@@ -232,7 +232,7 @@ Possible reasons may include downtime, failure to provide required proofs, netwo
 
 The exact behavior depends on chain rules and implementation.
 
-Users should check official explanations and current on-chain status.
+Users should check community explanations and current on-chain status.
 
 ## 【Q17: What is deregistered status?】
 
@@ -250,7 +250,7 @@ Generally, a deregistered node should not be expected to receive normal Service 
 
 However, if the stake is still locked during the release period, the coins may still be unavailable for transfer until the release condition is met.
 
-The exact behavior should be confirmed through official rules and on-chain status.
+The exact behavior should be confirmed through community rules and on-chain status.
 
 ## 【Q19: If a node is deregistered, can I recover it by restoring the server?】
 
