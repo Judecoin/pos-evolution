@@ -10,7 +10,7 @@ It is intended to help Judecoin Service Node operators restart nodes more clearl
 
 The CLI version used in this example is v3.2.0. This is only for the current version reference.
 
-If Judecoin releases a newer CLI version in the future, please always follow the latest version provided by the official website or official GitHub, and update the download link, extracted folder name, and version number accordingly.
+If Judecoin releases a newer CLI version in the future, please always follow the latest version provided by the community website or GitHub, and update the download link, extracted folder name, and version number accordingly.
 
 For example:
 
@@ -22,7 +22,7 @@ Current example extracted folder:
 
 `judecoin-x86_64-linux-gnu-v3.2.0`
 
-If a newer official version is released, please replace the version number, download file name, and extracted folder name with the latest official release information.
+If a newer community version is released, please replace the version number, download file name, and extracted folder name with the latest community release information.
 
 ## 【Judecoin Service Node Restart Process】
 
@@ -50,7 +50,7 @@ Run:
 
 Note:
 
-If a newer CLI version has been released officially, replace `v3.2.0` in the link above with the latest version number.
+If a newer CLI version has been released community, replace `v3.2.0` in the link above with the latest version number.
 
 ### 4. Extract the CLI File
 
@@ -70,7 +70,7 @@ Run:
 
 Note:
 
-If the official version has been updated, enter the corresponding new version directory.
+If the community version has been updated, enter the corresponding new version directory.
 
 ### 6. Check the Version
 
@@ -80,7 +80,7 @@ Run:
 
 If it shows `v3.2.0`, the current CLI version is correct.
 
-If the official version has been updated, please use the latest displayed version as the reference.
+If the community version has been updated, please use the latest displayed version as the reference.
 
 ### 7. Stop the Old judecoind Process
 
@@ -146,7 +146,7 @@ Then check again:
 
 5. Do not delete the `.bitjudecoin` directory, do not delete the `key_ed25519` file, and do not disclose your server access key, wallet private key, seed phrase, `.pem` file, or other server access credentials.
 
-6. If the official team releases a new CLI version, please check the official upgrade instructions first before updating the version and restarting the node.
+6. If the community releases a new CLI version, please check the community upgrade instructions first before updating the version and restarting the node.
 
 ## 【Security Reminders】
 
@@ -157,7 +157,7 @@ Please pay attention to the following:
 - Do not disclose wallet seed phrases or private keys;
 - Do not disclose `.pem` files or other server access keys;
 - Do not click unknown emails or unknown links;
-- When downloading the CLI, prioritize links provided by the official website or official GitHub;
+- When downloading the CLI, prioritize links provided by the community website or GitHub;
 - It is recommended to store the Service Node private key, server access files, and node records in secure encrypted storage;
 - It is recommended to keep at least two offline backups in separate safe locations.
 
