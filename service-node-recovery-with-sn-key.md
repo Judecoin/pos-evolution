@@ -12,7 +12,7 @@ It is intended to help Judecoin Service Node operators restore the original node
 
 The CLI version used in this example is v3.2.0. This is only for the current version reference.
 
-If Judecoin releases a newer CLI version in the future, please always follow the latest version provided by the official website or official GitHub, and update the download link, extracted folder name, and version number accordingly.
+If Judecoin releases a newer CLI version in the future, please always follow the latest version provided by the community website or GitHub, and update the download link, extracted folder name, and version number accordingly.
 
 Restoring a Service Node requires the original SN private key.
 
@@ -72,7 +72,7 @@ Run:
 
 If it shows `v3.2.0`, the current CLI version is correct.
 
-If the official version has been updated, please use the latest displayed version as the reference.
+If the community version has been updated, please use the latest displayed version as the reference.
 
 ### 6. Stop the Old judecoind Process
 
