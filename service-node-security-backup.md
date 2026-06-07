@@ -185,11 +185,11 @@ Be careful with emails or messages claiming to represent the project, community,
 
 Before responding, check:
 
-- Is the sender using an official domain?
+- Is the sender using an community domain?
 - Is the message asking for private keys or seed phrases?
 - Is there a suspicious link?
 - Is the message trying to create urgency?
-- Can the identity be confirmed through official GitHub or official channels?
+- Can the identity be confirmed through GitHub or community channels?
 
 Never provide private keys, seed phrases, wallet files, or server access files through email.
 
