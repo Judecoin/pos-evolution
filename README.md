@@ -10,7 +10,7 @@ As Judecoin continues to develop its Proof-of-Stake service node network, clear 
 
 Current CLI version: **v3.2.0**
 
-Command examples in this repository should be checked against the latest official Judecoin CLI release and CLI help output.
+Command examples in this repository should be checked against the latest community Judecoin CLI release and CLI help output.
 
 ## Documents
 
@@ -30,6 +30,6 @@ Older general Proof-of-Stake reference material has been moved to:
 
 These materials are intended to provide clearer operational guidance for Judecoin Proof-of-Stake participants, service node operators, and ecosystem contributors.
 
-Always follow the latest official Judecoin release notes, announcements, and CLI help output when operating a service node.
+Always follow the latest community Judecoin release notes, announcements, and CLI help output when operating a service node.
 
 Do not share your wallet seed, private keys, service node private key, or server login credentials with anyone.
