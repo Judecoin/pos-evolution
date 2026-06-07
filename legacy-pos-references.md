@@ -8,7 +8,7 @@ For current Judecoin service node operation, please refer to the main documents 
 
 ## Proof of Stake Overview
 
-Many people wonder what Proof of Stake is, and how it works. On this page you will find older general Proof-of-Stake reference links and FAQ content. If anything is missing or unclear, please refer to the current Judecoin documentation or official community channels.
+Many people wonder what Proof of Stake is, and how it works. On this page you will find older general Proof-of-Stake reference links and FAQ content. If anything is missing or unclear, please refer to the current Judecoin documentation or community channels.
 
 **General Proof-of-Stake references:**
 
