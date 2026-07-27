@@ -14,20 +14,20 @@ Many people wonder what Proof of Stake is, and how it works. On this page you wi
 
 * https://en.wikipedia.org/wiki/Proof-of-stake
 * https://www.investopedia.com/terms/p/proof-stake-pos.asp
-* http://cryptocurrencyfacts.com/proof-of-stake-pos/
+* https://cryptocurrencyfacts.com/proof-of-stake-pos/
 
 **Technical references:**
 
-* https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
+* https://ethereum.org/developers/docs/consensus-mechanisms/pos/
 * https://en.bitcoin.it/wiki/Proof_of_Stake
 * https://bitcoinmagazine.com/articles/what-proof-of-stake-is-and-why-it-matters-1377531463/
 
 **Original whitepapers:**
 
-* Peercoin PoS: https://peercoin.net/assets/paper/peercoin-paper.pdf
-* Blackcoin PoS v2: http://blackcoin.co/blackcoin-pos-protocol-v2-whitepaper.pdf
-* Blackcoin PoS v3: https://blackcoin.org/Blackcoin-POS-3.pdf
-* Blackcoin PoS v3.1: https://blackcoin.org/blackcoin-pos-protocol-v3.1-whitepaper.pdf
+* Peercoin PoS: https://www.peercoin.net/read/papers/peercoin-paper.pdf
+* Blackcoin PoS v2: https://github.com/CoinBlack/blackcoin.org_archive/blob/master/blackcoin-pos-protocol-v2-whitepaper.pdf
+* Blackcoin PoS v3: https://github.com/CoinBlack/blackcoin.org_archive/blob/master/Blackcoin-POS-3.pdf
+* Blackcoin PoS v3.1: https://github.com/CoinBlack/blackcoin.org_archive/blob/master/blackcoin-pos-protocol-v3.1-whitepaper.pdf
 
 ## FAQ
 
@@ -106,3 +106,4 @@ PoS 3 Reward = Rewards per Time * Reward size
 = (Time / (Network weight / Local weight * Block time))
     * (Coin supply * Percentage / Blocks per Year)
 = Time / Block time * Local weight * Percentage / Blocks per Year
+```

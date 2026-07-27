@@ -207,22 +207,9 @@ Do not upgrade from unknown download links.
 
 CLI version numbers may change over time.
 
-For example, a guide may use:
+When the community releases a newer CLI version, the version number and related command examples in the guide should be updated accordingly.
 
-`v3.2.0`
-
-But if the community version becomes:
-
-`v3.1.3`
-
-then users should update:
-
-- Download file name
-- Download link
-- Extracted folder name
-- Version check result
-
-Always follow the latest official release.
+Always follow the latest community release.
 
 ## 【Q16: What is decommissioned status?】
 

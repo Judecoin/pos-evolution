@@ -185,7 +185,7 @@ Be careful with emails or messages claiming to represent the project, community,
 
 Before responding, check:
 
-- Is the sender using an community domain?
+- Is the sender using a community domain?
 - Is the message asking for private keys or seed phrases?
 - Is there a suspicious link?
 - Is the message trying to create urgency?

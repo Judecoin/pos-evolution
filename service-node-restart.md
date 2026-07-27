@@ -50,7 +50,7 @@ Run:
 
 Note:
 
-If a newer CLI version has been released community, replace `v3.2.0` in the link above with the latest version number.
+If a newer CLI version has been released by the community, replace `v3.2.0` in the link above with the latest version number.
 
 ### 4. Extract the CLI File
 
